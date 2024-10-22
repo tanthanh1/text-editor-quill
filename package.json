@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.13.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.4",
+    "@mui/material-nextjs": "^6.1.4",
+    "axios": "^1.7.7",
+    "cloudinary": "^2.5.1",
+    "next": "14.2.15",
+    "next-images": "^1.8.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.15"
+    "react-hook-form": "^7.53.1",
+    "react-quill": "^2.0.0"
   },
   "devDependencies": {
     "postcss": "^8",
